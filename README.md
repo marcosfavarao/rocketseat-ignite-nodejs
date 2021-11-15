@@ -6,7 +6,7 @@
 
 <h1 align='center'>Ignite Trilha NodeJS</h1>
 
-<h3 align='center'>Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Ignite Rocketseat - Trilha NodeJS</strong>. </h3>
+<h3 align='center'>Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Rocketseat Ignite - Trilha NodeJS</strong>. </h3>
 
 ---
 
