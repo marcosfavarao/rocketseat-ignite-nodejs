@@ -6,7 +6,9 @@
 
 <h1 align='center'>Ignite Trilha NodeJS</h1>
 
-<h3 align='center'>Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Rocketseat Ignite - Trilha NodeJS</strong>. </h3>
+<h3 align='center'>Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Ignite - Trilha NodeJS</strong>. </h3>
+
+<br>
 
 ---
 
@@ -23,8 +25,6 @@
 
 <br>
 
----
-
 <h2>Desafios</h2>
 
 - Chapter 1
@@ -36,19 +36,19 @@
 
 <br>
 
----
-
 <h2>Projetos</h2>
 
 <br>
 
----
-
 <h2>Anotações</h2>
-Todas as anotações estão sendo realizadas pelo aplicativo <strong>Notion</strong>.
+Todas as anotações estão sendo realizadas pelo aplicativo <span> <a href="https://www.notion.so/"><img src='https://ik.imagekit.io/wijkynyxd3a7/notion-32_rc-R8XBO6.png?updatedAt=1638305609914'></a> </span>.
 
+<br>
+<br>
 <br>
 
 ---
 
-Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong>
+<div align='right'>
+  <span>Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong></span>.
+</div>
