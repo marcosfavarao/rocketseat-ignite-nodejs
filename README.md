@@ -40,6 +40,8 @@
 - Chapter 6
 </section>
 
+ <br>
+  
 <section>
 <h2>🏆 Desafios</h2>
 
